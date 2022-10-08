@@ -40,7 +40,7 @@
 101C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\@parcel\workers\lib\process\ProcessWorker.js133094753444390243 0
 111C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\helpers\getAllFiles.js133094753436904894 0
 55C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\.htmlnanorc132987303040000000 0
-48C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\dist133096106818603524 1
+48C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\dist133097057133131105 1
 107C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133094753450966172 0
 86C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\@parcel\workers\lib\Handle.js133094753441991736 0
 65C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\svgo\lib133094753450376536 1
@@ -189,14 +189,14 @@
 90C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\fast-glob\out\providers\stream.js133094753443830606 0
 115C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js133094753461449579 0
 93C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\notiflix\dist\notiflix-3.2.5.min.css133095673512343508 0
-62C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\src\js\02-timer.js133095682745604555 0
+62C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\src\js\02-timer.js133096107544588406 0
 106C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\@parcel\transformer-babel\lib\BabelTransformer.js133094753437844304 0
 76C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\terser\lib\parse.js133094753694430998 0
 70C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\nth-check\lib133094753444230344 1
 110C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\caniuse-lite\data\features\font-variant-alternates.js133094753458041704 0
 68C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\htmlparser2133094753441122264 1
 126C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\files\embed\embed2133094753448737564 1
-65C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\src\js\03-promises.js133096106817384259 0
+65C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\src\js\03-promises.js133097057288795964 0
 87C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\chokidar\lib\nodefs-handler.js133094753437694394 0
 62C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\src\css\common.css133094641240000000 0
 75C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\timsort\.npmignore133094753438403949 0
@@ -1169,7 +1169,7 @@
 97C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\node-gyp-build-optional-packages\LICENSE133094753431729845 0
 70C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\timsort\build133094753441052311 1
 73C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\timsort\index.js133094753439803088 0
-73C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\dist\02-timer.f9388f03.js.map133096103098003514 0
+73C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\dist\02-timer.f9388f03.js.map133097035715371725 0
 81C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\sass\types\importer.d.ts133094753449547055 0
 96C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\@parcel\packager-svg\lib\SVGPackager.js133094753433049027 0
 75C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\timsort\LICENSE.md133094753440212834 0
@@ -2465,7 +2465,7 @@
 96C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\json-parse-even-better-errors\README.md133094753436485145 0
 74C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\js-tokens\LICENSE133094753435355842 0
 91C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\caniuse-lite\data\features\avif.js133094753447218498 0
-69C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\dist\02-timer.f9388f03.js133096103097953562 0
+69C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\dist\02-timer.f9388f03.js133097035715251769 0
 79C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\js-tokens\package.json133094753431739834 0
 99C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\momentPlugin.js133094786888629845 0
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\caniuse-lite\data\regions\BN.js133094753449467099 0
@@ -5034,8 +5034,8 @@
 72C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\.bin\terser.cmd133094753695630270 0
 72C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\node_modules\.bin\terser.ps1133094753695630270 0
 78C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133096103097953562 0
-72C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\dist\03-promises.cd58c9ff.js133096106818573528 0
-76C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133096106818583521 0
+72C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\dist\03-promises.cd58c9ff.js133097057133051152 0
+76C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133097057133081134 0
 59C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\dist\index.html133096103097583789 0
 68C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\assets\repo-settings.png132987303040000000 0
 72C:\Users\micha\OneDrive\Go_it\goit-js-hw-09\.github\workflows\deploy.yml132987303040000000 0
