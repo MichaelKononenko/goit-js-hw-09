@@ -9,7 +9,7 @@ const hoursSpan = document.querySelector('[data-hours]');
 const minutesSpan = document.querySelector('[data-minutes]');
 const secondsSpan = document.querySelector('[data-seconds]');
 
-startButton.style.pointerEvents = 'none';
+startButton.style = 'pointer-events:none; opacity:0.5;';
 
 startButton.addEventListener('click', startСounting);
 
@@ -25,10 +25,10 @@ const options = {
   onClose(selectedDates) {
     finalDate = selectedDates[0].getTime();
     if (presentTime > finalDate) {
-      startButton.style.pointerEvents = 'none';
+      startButton.style = 'pointer-events:none; opacity:0.5;';
       Notify.failure('Please choose a date in the future');
     } else {
-      startButton.style.pointerEvents = 'auto';
+      startButton.style = 'pointer-events:auto; opacity:1;';
     }
   },
 };

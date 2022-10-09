@@ -16,3 +16,56 @@ img {
   display: block;
   max-width: 100%;
 }
+
+/* color switcher */
+.go-back-wrapper {
+  text-align: center;
+}
+.buttons-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.color-button {
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.color-button:not(:last-child) {
+  margin-right: 30px;
+}
+
+/* timer */
+.start-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.start-wrapper input {
+  margin-right: 20px;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+.start-wrapper button {
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.timer {
+  display: flex;
+  justify-content: center;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+}
+.field:not(:last-child) {
+  margin-right: 20px;
+}
+.value {
+  text-align: center;
+  font-size: 30px;
+}
